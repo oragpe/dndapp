@@ -50,7 +50,7 @@ int main(){
       exit(1);             
    }
 
-   printf("Enter num: ");
+   printf("Enter num please: ");
    scanf("%d",&num);
 
    fprintf(fptr,"%d\n",num);
